@@ -45,7 +45,7 @@
 ## My Stats
 <p>
   <a href="https://github.com/urvashi912">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=urvashi912&show_icons=true&hide=stars,prs,issues,contribs&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=urvashi912&show_icons=true&hide=stars,prs,issues&count_private=true&theme=radical" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashi912&theme=radical&layout=compact" />
   </a>
 </p>
