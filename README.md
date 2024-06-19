@@ -24,6 +24,9 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F9A03C?&logo=hugging-face&logoColor=white)
   ![LangChain](https://img.shields.io/badge/-LangChain-001E36?&logo=LangChain)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
