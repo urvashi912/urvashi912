@@ -21,6 +21,9 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?&logo=tailwindcss&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F9A03C?&logo=hugging-face&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/-LangChain-001E36?&logo=LangChain)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
